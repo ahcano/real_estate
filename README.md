@@ -1,8 +1,16 @@
 # real_estate
 San Francisco properties viable as rental income investments
 
+## Examples
+
+![6-4-zoomed-housing-units-by-year](https://github.com/ahcano/real_estate/assets/141194281/1d3a3c7d-dec9-4b61-bc30-31e06cc4aad0)
+![6-4-pricing-info-by-neighborhood](https://github.com/ahcano/real_estate/assets/141194281/3c4d76cf-4a0d-4e6f-a8df-86bd27434171)
+![6-4-geoviews-plot](https://github.com/ahcano/real_estate/assets/141194281/20fc5a92-e62a-4aaa-b06c-aca9deb85430)
+![6-4-avg-sale-px-sq-foot-gross-rent](https://github.com/ahcano/real_estate/assets/141194281/c2fcc01f-ec5b-4913-a3c6-894f89274580)
+
+
 ## Usage
-The code is in Jupyter notebook financial-planner.ipynb
+The code is in Jupyter notebook san_francisco_housing.ipynb
 
 ## Contributors
 Ana Cano - Author ana.cano@utoronto.ca

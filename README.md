@@ -1,5 +1,6 @@
 # real_estate
-San Francisco properties viable as rental income investments
+This project presents data visualisation, aggregation, and interactive data plots, to find properties in the San Francisco market that are viable investment opportunities.
+A data issue is outstanding to resolve, when preparing for the geospatial analysis on steps 4 and of the interactive neighbourhood map build.
 
 ## Examples
 
